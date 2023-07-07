@@ -1,4 +1,3 @@
 #!/bin/bash
 groups=$(groups)
 echo "The user '$username' is a member of the following groups:"
-echo $groups
